@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AtikinShubh
 - 👀 I’m interested in Programming Language
-- 🌱 I’m currently learning Python
-# 💞️ I’m looking to collaborate on ...
+# 🌱 I’m currently learning Python
+-  💞️ I’m looking to collaborate on ...
 - 📫 you can tweet me on @PancharasShubh
 
 <!---
