@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @AtikinShubh
-- 👀 I’m interested in Programming Language
-# 🌱 I’m currently learning Python
--  💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @shubham pancharas
+- 👋 Hi, This is my 2nd github account, and this is just for my fun, i am just getting log of my works in different domain.
+- 👀 I’m interested in Programming Language, framworks 
+# 🌱 I’m currently learning Python, web dev, cybersecurity and what not. 
+- 💞️ I’m looking to collaborate on Projects
 - 📫 you can tweet me on @PancharasShubh
 
 <!---
